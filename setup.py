@@ -8,6 +8,7 @@ pkgdir = {'': 'python%s' % sys.version_info[0]}
 VERSION = '0.10.3'
 
 setup(name='httplib2',
+      
         version=VERSION,
         author='Joe Gregorio',
         author_email='joe@bitworking.org',
